@@ -1,0 +1,177 @@
+Host:  72.18.134.34
+
+user : dreszualhair1@hirewebagency.com
+
+pwd:   PpmaEa3x[fwE
+
+
+
+
+--------------------------------------
+Host:  72.18.134.34
+user : food1@hirewebagency.com
+pwd:   gNjcz@2wh]14
+
+
+-------------------------------------
+
+vitacura.hirewebagency.com
+
+
+Dbname:  hireweba_vitacura
+User: hireweba_vitacur
+Pwd:   2OC))ayIoADu
+
+
+Host:  72.18.134.34
+user : vitacura@hirewebagency.com
+pwd:   mnr0N5TUz*%C
+
+
+-------------------------------------
+
+ecommerce2.hirewebagency.com
+
+Dbname:  hireweba_ecommerce2
+User:    hireweba_ecom
+Pwd:     @m=JSN,3dRn3
+
+-----------------------------------
+
+ecommerce1.hirewebagency.com
+
+Dbname:  hireweba_ecommerce1
+User:    hireweba_ecom1
+Pwd:     Z%wo)nu605=m
+
+-------------------------------------
+jewellery1.hirewebagency.com
+
+Dbname:  hireweba_jewel1
+User:    hireweba_jewel1
+Pwd:     S!0@gz+wP6c+
+
+-------------------------------------
+jewellery2.hirewebagency.com
+
+Dbname:  hireweba_jewel2
+User:    hireweba_jewel2
+Pwd:     P(D?wqg0,?fB
+
+------------------------------------
+cosmetics2.hirewebagency.com
+
+Dbname:  hireweba_cosmetics2
+User:    hireweba_cos1
+Pwd:     OjQ+k7vF,-QZ
+
+-----------------------------------
+shorolafashion.com
+
+Dbname:  hireweba_shorolafashion
+User:    hireweba_shorola
+Pwd:     =ZUBXDD?N;,l
+
+-----------------------------------
+
+Previous :
+
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'hirewe7_astute_live');
+
+/** MySQL database username */
+define('DB_USER', 'hirewe7_hirewe7_astute_live');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'V[M=hOo}eoOc');
+
+-------------------------
+
+dbname:  admin_astute
+
+user:    admin_astute
+
+pwd:     31v*5xnE
+
+--------------------------------------------------------
+
+beauty2.hirewebagency.com
+
+Dbname:  hireweba_beauty2
+User:    hireweba_beauty2
+Pwd:     Qg%P@czKy_9u
+
+------------------------------------------------
+booking.hirewebagency.com
+
+Dbname:  hireweba_booking
+User:    hireweba_booking
+Pwd:     G-0{!DZJL*&u
+
+
+
+HOST:  72.18.134.34
+
+User:  booking@hirewebagency.com
+
+Pwd:   a]=K;tW587{J
+------------------------------------------
+
+findmymotor.developersinuk.com
+
+Database name   -  findmymotor
+Database user name findmymotor
+Password - Qn52bu~6
+
+
+FTP Details:
+
+Host:  167.86.70.187
+User:  findmymotor
+Pwd:   si273t*A
+
+
+----------------------------------------
+
+restaurant1.hirewebagency.com
+
+Dbname:  hireweba_restaurant1
+User:    hireweba_rest1
+Pwd:     6{7xJ;G@sp?{
+
+
+Host :  72.18.134.34
+
+User:   restaurant1@hirewebagency.com
+
+Pwd:    #_hF9^zwftI@
+
+
+---------------------------------------
+
+restaurant2.hirewebagency.com
+
+
+Dbname:  hireweba_restaurant2
+User:    hireweba_rest2
+Pwd:     m~q)=t$onz;9
+
+----------------------------------------
+
+restaurant3.hirewebagency.com
+
+
+Dbname:  hireweba_restaurant3
+User:    hireweba_rest3
+Pwd:     U8E=Rs$mXXH(
+
+----------------------------------------
+
+restaurant4.hirewebagency.com
+
+
+Dbname:  hireweba_restaurant4
+User:    hireweba_rest4
+Pwd:     ]&&rjbnfj.hq
+

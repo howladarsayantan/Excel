@@ -1,0 +1,195 @@
+Inmotion Hosting
+
+
+footbalstore.com
+
+Db :   hirewe7_footbalstore
+
+user:  hirewe7_footbalstore
+
+pwd:  oP.u9QZK{MpR
+
+----------------------------------
+
+footbalshop.com
+
+
+Db :   hirewe7_footbalshop
+
+user:  hirewe7_footbalshop
+
+pwd:  YQNzH+^8;[^p
+
+------------------------------------
+
+futbolonlinestore.com
+
+Db :   hirewe7_futbolonlinestore
+
+user:  hirewe7_futbolonlinestore
+
+pwd:  nsh]JXg*i9^~
+
+
+----------------------------------
+
+futbolworldstore.com
+
+Db :   hirewe7_futbolworldstore
+
+user:  hirewe7_futbolworldstore
+
+pwd:  NSnB;K[Xr-j}
+
+
+
+----------------------------------------------
+
+futbolworldshop.adeptcrm.com
+
+
+Db :   hirewe7_worldshop
+
+user:  hirewe7_worldshop
+
+pwd:   mbly!(h4?mWn
+
+----------------------------------------
+
+hirewe7_astutemyndz
+
+hirewe7_astutemyndz
+
+%(-YoGoPB--w
+------------------------------------
+
+ecommercemulti1.adeptcrm.com
+
+Db :   hirewe7_ecommercemulti1
+
+user:  hirewe7_ecommercemulti1
+
+pwd:   k%sw;iq~RvC#
+
+---------------------------------------
+
+ecommercemulti2.adeptcrm.com
+
+Db :   hirewe7_ecommercemulti2
+
+user:  hirewe7_ecommercemulti2
+
+pwd:   &EgveFu[Z~y!
+
+
+-------------------------------------
+
+ecommercemulti3.adeptcrm.com
+
+Db :   hirewe7_ecommercemulti3
+
+user:  hirewe7_ecommercemulti3
+
+pwd:   SR8h;N*oC=cU
+
+---------------------------------------
+beth.adeptcrm.com
+
+Db:   hirewe7_beth
+User: hirewe7_beth
+pwd:  =oL*0.%HE46x
+
+Host:  173.231.210.21
+
+User: beth@adeptcrm.com
+
+Pwd: R=G;6^Y;s)G7
+
+--------------------------------------
+beth2.adeptcrm.com
+
+Db:   hirewe7_beth2
+User: hirewe7_beth2
+pwd:  pQn9MIZhWbU[
+
+Host:  173.231.210.21
+
+User: beth2@adeptcrm.com
+
+Pwd:  seb0#qeX2hZM
+
+-----------------------------------------
+
+beth1.adeptcrm.com
+
+Db:   hirewe7_beth1
+User: hirewe7_beth1
+pwd:  KA3aDU&CsV]i
+
+Host:  173.231.210.21
+
+User: beth1@adeptcrm.com
+
+Pwd:  j+ZBT+f{mDKi
+-----------------------------------
+
+beth3.adeptcrm.com
+
+Db:   hirewe7_beth3
+User: hirewe7_beth3
+pwd:  3Tsd*uu**CM3
+
+Host:  173.231.210.21
+
+User: beth3@adeptcrm.com
+
+Pwd:  =S9[4Rz);6]Y
+
+-----------------------------------
+
+fashion1.adeptcrm.com
+
+
+Db:   hirewe7_fashion1
+User: hirewe7_fashion1
+pwd:  Pw=kiXccP(Na
+
+Host:  173.231.210.21
+
+User: fashion1@adeptcrm.com
+
+Pwd:  #&im4#,63Zp@
+
+
+---------------------------------
+
+fashion2.adeptcrm.com
+
+
+Db:   hirewe7_fashion2
+User: hirewe7_fashion2
+pwd:  R=F62mn+]E@M
+
+Host:  173.231.210.21
+
+User: fashion2@adeptcrm.com
+
+Pwd:  fe$7Wf$nmpME
+
+----------------------------------
+
+fashion3.adeptcrm.com
+
+
+Db:   hirewe7_fashion3
+User: hirewe7_fashion3
+pwd:  Q;q~pCrQI;Zm
+
+Host:  173.231.210.21
+
+User: fashion3@adeptcrm.com
+
+Pwd:  fWjI?R*aw9WO
+
+---------------------------------------
+
